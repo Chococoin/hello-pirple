@@ -1,0 +1,15 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "First exercise for the node masterclass of Pirple.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hello-pirple"
+  },
+  "author": "German Lugo",
+  "license": "MIT"
+}
